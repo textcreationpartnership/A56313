@@ -1,0 +1,863 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest account from Pensylvania of the principal differences in point of doctrine, between George Keith, and those of the people called Quakers, from whom he separated : shewing his great declension, and inconsistency with himself therein : recommended to the serious consideration of those who are turned aside, aud [sic] joyned in his schism.</title>
+            <author>Pusey, Caleb, 1650?-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56313</idno>
+            <idno type="STC">Wing P4248</idno>
+            <idno type="STC">ESTC R40087</idno>
+            <idno type="EEBO-CITATION">18693001</idno>
+            <idno type="OCLC">ocm 18693001</idno>
+            <idno type="VID">108181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1660:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest account from Pensylvania of the principal differences in point of doctrine, between George Keith, and those of the people called Quakers, from whom he separated : shewing his great declension, and inconsistency with himself therein : recommended to the serious consideration of those who are turned aside, aud [sic] joyned in his schism.</title>
+                  <author>Pusey, Caleb, 1650?-1727.</author>
+               </titleStmt>
+               <extent>68 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Caleb Pusey.</note>
+                  <note>Imperfect: pages cropped, faded and tightly bound, with slight loss of print. Defective Bodleian copy spliced at end.</note>
+                  <note>Reproduction of originals in the Bevan-Naish Collection and the Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  Doctrines --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:108181:1"/>
+               <pb facs="tcp:108181:1"/>
+A Modeſt Account FROM PENSYLVANIA, OF <hi>The Principal Differences</hi> In Point of Doctrine, BETWEEN <hi>George Keith,</hi> And thoſe of the People CALLED QUAKERS, From whom he Separated: SHEWING His great Declenſion, and Inconſiſtency with Himſelf Therein.</p>
+            <p>Recommended to the Serious Conſideration of Thoſe who are Turned Aſide, and Joyned in his SCHISM.</p>
+            <q>If any man draw back, my Soul ſhall have no plaſure in him.</q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> in <hi>Gracious-Street.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108181:2"/>
+            <pb n="3" facs="tcp:108181:2"/>
+            <head>
+               <hi>A Modest Account</hi> FROM PENSYLVANIA, OF THE Principal Differences BETWEEN <hi>George Keith,</hi> And thoſe of the People called QUAKERS, From whom he Separated.</head>
+            <p>SOme Aſſertions and Expreſſions touching Points of Doctrine, being agreeable to the Writings of Faithful Friends and Brethren, as alſo the Writings of <hi>G. K.</hi> himſelf, with ſome Obſervations thereon, writ<g ref="char:EOLhyphen"/>ten here, and propoſed to the Conſide<g ref="char:EOLhyphen"/>ration of <hi>You</hi> that differ with us about
+<pb n="4" facs="tcp:108181:3"/>
+Doctrinal Points, and yet profeſs your ſelves to be at Unity with all Faithful Friends and Brethren in all parts of the World, both in Spirit and Doctrine; that you may candidly and impartially conſider thereof, and by which you may ſee clearly how <hi>G. Keith</hi> is contra<g ref="char:EOLhyphen"/>dicting not only himſelf, but alſo Faith<g ref="char:EOLhyphen"/>ful Friends and Brethren, in ſeveral Points of Doctrine, but eſpecially about one part of that you call the main mat<g ref="char:EOLhyphen"/>ter of Controverſie. Alſo ſeveral Reaſons offered to ſhew that <hi>G. K.</hi> de<g ref="char:EOLhyphen"/>ſigned either to conform Friends to ſome New Matter, or elſe to ſeparate long before he took the occaſion againſt <hi>W. S.</hi> and <hi>T. F.</hi> wherein his Inſincerity is manifeſt in pretending to be One with all Faithful Friends, both in Spi<g ref="char:EOLhyphen"/>rit and Doctrine.</p>
+            <p>Here is alſo ſhewn my ſence of his Confuſions about the Reſurrection; with ſome Remarks upon the Alma<g ref="char:EOLhyphen"/>nack-Makers accuſing Friends for Per<g ref="char:EOLhyphen"/>ſecuting their Brethren.</p>
+            <p>Unto which is added, A very good way and means propoſed by <hi>G. K.</hi> him<g ref="char:EOLhyphen"/>ſelf, to bring the Difference among Chriſtians, in point of Judgment, to a
+<pb n="5" facs="tcp:108181:3"/>
+ſmall compaſs: With ſome Obſerva<g ref="char:EOLhyphen"/>tions and Queries thereon, <hi>&amp;c.</hi>
+            </p>
+            <p>Note, I have been careful to cite the Book and Pages of the following Paſſages, by which it may be ſeen (though for brevi<g ref="char:EOLhyphen"/>ty's ſake I have not ſometimes taken in the whole Paragraphs, yet, as is premiſed in the Title) it is nothing but what is agree<g ref="char:EOLhyphen"/>able to them.</p>
+            <p>IN the Firſt place then, As concern<g ref="char:EOLhyphen"/>ing one part of that which you call The main matter of Controverſie with us, to wit, Of the univerſal neceſſity of the Knowledge and Faith of Chriſts Death and Sufferings without us, to Salvation, as by your Books, <hi>Plea of the Innocent,</hi> page 17. and <hi>Some Funda<g ref="char:EOLhyphen"/>mental Truths,</hi> &amp;c. page 14. appears: Now you may ſee what <hi>R. Barclay</hi> and <hi>G. K.</hi> have laid down in this matter, to wit,</p>
+            <p>
+               <pb n="6" facs="tcp:108181:4"/>
+As the Light, and Grace, and Seed, <note place="margin">
+                  <hi>R. Barclay</hi>'s Apology, page 90.</note> comes to be received and not reſiſted, it works the Salvation of all, even of thoſe who are ignorant of the Death and Sufferings of Chriſt.</p>
+            <p>Who receive him in his Inward Com<g ref="char:EOLhyphen"/>ing, <note place="margin">
+                  <hi>G. K</hi>'s Light of Truth, <hi>&amp;c.</hi> pag. 12.</note> and become ſubject to him, receive the benefit of his outward Coming, re<g ref="char:EOLhyphen"/>ceive the benefit of his Sufferings and Death, his Sufferings and Death is theirs.</p>
+            <p>But that the expreſs knowledge and belief of his taking on him the Form <note place="margin">Page 6.</note> of a Man, and his Obedience and Suf<g ref="char:EOLhyphen"/>ferings therein, is of abſolute neceſſity unto Salvation, ſo as none could be ſa<g ref="char:EOLhyphen"/>ved without the expreſs knowledge, though it was never revealed to them; <hi>This I deny;</hi> and how canſt thou prove it by Scripture?</p>
+            <p>For why may not the benefit of Chriſts taking on him the Form of a Man, redound unto many who do not expreſly know it, even as a diſeaſed Perſon may receive benefit of a Cure applied to him, though he has not an expreſs knowledge of all the means and ways how, from firſt to laſt, it hath been prepared? And even as many have ſuffered hurt through the
+<pb n="7" facs="tcp:108181:4"/>
+Diſobedience of the Firſt Man <hi>Adam,</hi> who have not known expreſly that ever ſuch a Man was, nor the manner of his Diſobedience; ſo even why may not many receive benefit through the Obedience of Chriſt in the Outward, who have not known expreſly his Out<g ref="char:EOLhyphen"/>ward Coming and Sufferings? Other<g ref="char:EOLhyphen"/>wiſe <hi>Adam</hi>'s Diſobedience was more effectual for Mans Deſtruction, than the Obedience of Chriſt was for his Sal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Again, <hi>G. K.</hi> frames an Objection, <note place="margin">
+                  <hi>G. K.</hi>'s Uni<g ref="char:EOLhyphen"/>verſal Free Grace of the Goſpel, page 116, 117.</note> and anſwers thus:</p>
+            <p>
+               <hi>Object.</hi> This Light cannot diſcover the Birth, Suffering, Death, Reſurre<g ref="char:EOLhyphen"/>ction, and Aſcenſion of the Lord Jeſus Chriſt, in the Outward, the knowledge of which is eſſentially neceſſary to Sal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>To which <hi>G. K.</hi> concludes his An<g ref="char:EOLhyphen"/>ſwer after this manner: That the Un<g ref="char:EOLhyphen"/>believers that had not the Scriptures (ſaith he) neither know him nor the Scriptures that teſtified of him, being gone from his inward appearance of his own Light in their hearts, which would have diſcovered both him in the Out<g ref="char:EOLhyphen"/>ward, and the Scripture's Teſtimony of
+<pb n="8" facs="tcp:108181:5"/>
+him: But that the knowledge of him, as in the Outward, to be of neceſſity to Salvation, <hi>We Grant not.</hi>
+            </p>
+            <p>Secondly, As concerning the ſuffici<g ref="char:EOLhyphen"/>ency <note place="margin">
+                  <hi>Edw. Bur<g ref="char:EOLhyphen"/>rough</hi>'s Works. p. 54</note> of the Light, without ſomething elſe (that you have made ſuch a pudder about of late.)</p>
+            <p>There is a Light in every Man ſuffi<g ref="char:EOLhyphen"/>cient of it ſelf to bring Eternal Life and Salvation.</p>
+            <p>It is a real degree of Blaſphemy to <note place="margin">
+                  <hi>G. K.</hi>'s Re<g ref="char:EOLhyphen"/>futation, p. 38, 39.</note> ſay, This Light cannot make Satisfa<g ref="char:EOLhyphen"/>ction for the Sins that are paſt, nor lead into Evangelical or Goſpel Truths, or give Eternal Peace and Salvation.</p>
+            <p>We believe and acknowledge him <note place="margin">
+                  <hi>G. K.</hi>'s Light of Truth, p. 113.</note> who was manifeſt in the Body of Fleſh, to be the true and only Chriſt and Sa<g ref="char:EOLhyphen"/>viour, as manifeſt in us, (mark) (As ma<g ref="char:EOLhyphen"/>nifeſt in us.)</p>
+            <p>The Light within is God and Chriſt.</p>
+            <p>Here with open Mouth thou ſpeakeſt <note place="margin">
+                  <hi>G. K.</hi>'s Here<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of Ha<g ref="char:EOLhyphen"/>tred<g ref="char:punc">▪</g> p. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>G. K</hi>'s Light of Truth, page 8.</note> againſt our Principle, the Light that Enlightens every Man that comes into the World, being the true Chriſt our only Saviour, Mediator and Redeemer; and that there is not another: And that Man is to heed and be joyned to this Light, as that which as it condemns
+<pb n="9" facs="tcp:108181:5"/>
+him, ſo is able of it ſelf to redeem him, as he becomes obedient thereunto.</p>
+            <p>Thou ſayeſt, This Doctrine declaring the Light and Power and Spirit within, <note place="margin">Ibid. p. 8.</note> to be Chriſt the only Mediator and Sa<g ref="char:EOLhyphen"/>viour, aſſerts another Chriſt, another Saviour, than him, Jeſus Chriſt of <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> who was born of the Virgin <hi>Mary, &amp;c.</hi> But (ſaith <hi>G. K.)</hi> if thou wert indeed for this Myſtery Chriſt within, as he is the Seed, the Light, the Power and the Life, thou wouldſt not ſay this aſſerts another Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>God and Chriſt can do all things, and <note place="margin">
+                  <hi>G. K.</hi>'s Refu<g ref="char:EOLhyphen"/>tation, <hi>p.</hi> 32.</note> both God and Chriſt are in all Men.</p>
+            <p>
+               <hi>Thirdly.</hi> As concerning Chriſtians and Preachers being Magiſtrates; you <note place="margin">
+                  <hi>Edw. Burbough</hi>'s Works, p. 75.</note> may ſee what <hi>E. B.</hi> and <hi>G.</hi> K. ſays, <hi>to wit,</hi> Such we would have to Reign who Rule for the Lord, Exerciſing and Executing Righteous Judgments by the Spirit of God (ſaith <hi>E. B.)</hi>
+            </p>
+            <p>This is our Faith, That Magiſtrates <note place="margin">G. <hi>Keith</hi>'s Looking-Glaſs for Proteſtants, p. 10.</note> may Preach <hi>(ſaith</hi> G. K.)</p>
+            <p>
+               <hi>Fourthly.</hi> G. K. concludes concerning Chriſt's Body now in Heaven, thus.</p>
+            <p>It being <hi>no more a Body of flleſh, blood</hi> 
+               <note place="margin">G. <hi>Keeth</hi>'s Way caſt up, page 113.</note> 
+               <hi>and bones, but a pure ethereal or Heavenly body,</hi> like unto which the bodies of the
+<pb n="10" facs="tcp:108181:6"/>
+Saints are to be at the <hi>Reſurrection,</hi> G. K's <hi>Way caſt up,</hi> p. 131.</p>
+            <p>
+               <hi>Fifthly.</hi> Concerning the Reſurre<g ref="char:EOLhyphen"/>ction of the Dead, <hi>William Penn</hi> ſays, <note place="margin">
+                  <hi>W. Penn</hi>'s Reaſon a<g ref="char:EOLhyphen"/>gainſt Rail<g ref="char:EOLhyphen"/>ing, p. 124.</note> For our parts, a Reſurrection we be<g ref="char:EOLhyphen"/>lieve, and that of Bodies too, unto Eternal Life; what they ſhall be, we leave to God, who will give every one a Body as it pleaſeth him; and <hi>[thou Fool]</hi> belongs to the unneceſſary medler.</p>
+            <p>It is enough that we believe a Reſur<g ref="char:EOLhyphen"/>rection, <note place="margin">And his Key.</note> and that of a Glorious and In<g ref="char:EOLhyphen"/>corruptible Body, without farther Ni<g ref="char:EOLhyphen"/>cities.</p>
+            <p>But to tell of theſe bodily Eyes to be made Spiritual, and then of ſeeing <note place="margin">G. <hi>W.</hi> Life and Light of Chriſt, Book 64.</note> God with them, and that they muſt be ſo Spiritual, and yet be the ſame they are for Matter and Subſtance; this is a ſtrange Doctrine, and that which we could never have demon<g ref="char:EOLhyphen"/>ſtrated from any Maxim in Divinity, nor yet from any general Rule in Phi<g ref="char:EOLhyphen"/>loſophy.</p>
+            <p>That we deny the Reſurrection of the Dead, this is a moſt falſe Charge, <note place="margin">G. K's Pres<g ref="char:EOLhyphen"/>byterian and Independent Ch. c. 8. p. 229.</note> which they can never prove; but be<g ref="char:EOLhyphen"/>cauſe we deny their Carnal Con<g ref="char:EOLhyphen"/>ceptions (meaning the Profeſſors) of the
+<pb n="11" facs="tcp:108181:6"/>
+Reſurrection, and hold us to Scripture words (which is moſt ſafe) therefore they have ſo belyed us.</p>
+            <p>The Fleſh that is Mortal, Groſs and <note place="margin">G. <hi>Keeth</hi>'s Teſtimony againſt the falſe and ab<g ref="char:EOLhyphen"/>ſurd Opini<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi> page 10.</note> Corruptible, <hi>is not the Fleſh</hi> that ſhall be raiſed up Immortal and Incorruptible.</p>
+            <p>Now Friends, do but conſider the above Expreſſions and Aſſertions, and if you are One with all Faithful Friends in all parts of the World, both in Spi<g ref="char:EOLhyphen"/>rit and Doctrine, and are in dear Unity with them, and if you faithfully be<g ref="char:EOLhyphen"/>lieve your Faith doth well agree with them, and that yours is the Real, Sound and Upright Faith, as hath been received by the moſt Sound, Ancient, and Preſent Priends, called (in ſcorn) Quakers; I ſay, if you are thus One with them, as in the Book called, <hi>Some</hi> 
+               <note place="margin">Page 17. and 28.</note> 
+               <hi>Reaſons,</hi> &amp;c. you poſitively ſay, you are; nay, if you are but one with <hi>G. K.</hi> himſelf in what he hath written, as to points of Doctrine; or if <hi>G. K.</hi> him<g ref="char:EOLhyphen"/>ſelf be but conſiſtent with himſelf (as he boaſts he is) then ſurely theſe things being ſincerely conſidered by you, I ſee no reaſon you have to to differ with us about the Doctrines aforeſaid. But that
+<pb n="12" facs="tcp:108181:7"/>
+you are not One with them, and that <hi>G. K.</hi> is not conſiſtent with (but in manifeſt contradiction againſt) himſelf about it, methinks may eaſily be made appear by what follows, <hi>viz.</hi> by com<g ref="char:EOLhyphen"/>paring the former Aſſertions with his other Books, <hi>&amp;c.</hi> as thus;</p>
+            <p>Firſt. If all be ſaved who receive, <note place="margin">
+                  <hi>R. B's</hi> Apo<g ref="char:EOLhyphen"/>logy, p. 90.</note> and not reſiſt the Light, Grace and Seed, though they are ignorant of Chriſt's Death and Sufferings, how is it, that none are ſaved who are faithful Improvers of this Light and Grace, <hi>&amp;c.</hi> without the Faith and Knowledge of his Death and Sufferings? Now pray, conſider, whether you are One with that Faithful, Ancient, and Sound Friend, <hi>R. Barclay,</hi> or not, in this mat<g ref="char:EOLhyphen"/>ter? Again,</p>
+            <p>Secondly. If the expreſs Knowledge <note place="margin">
+                  <hi>G. Kieth's</hi> Prieſt and Independen viſib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Ch. <hi>&amp;c.</hi> p. 133.</note> of Chriſt becoming Man, and Suffer<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi> was poſitively deny'd to be of neceſſity to Salvation; how is it now that he ſaith, That expreſs Know<g ref="char:EOLhyphen"/>ledge <hi>is indiſpenſibly</hi> neceſſary to Salva<g ref="char:EOLhyphen"/>tion, or Perfect Juſtification?</p>
+            <p>Since the Knowledge of him in the Outward, in another Book, was then not granted to be of neceſſity to Salva<g ref="char:EOLhyphen"/>tion,
+<pb n="13" facs="tcp:108181:7"/>
+how is it that he does not only grant it, but furiouſly quarrels with Friends about it, and confeſſes it him<g ref="char:EOLhyphen"/>ſelf to be a main matter of Controver<g ref="char:EOLhyphen"/>ſie with Friends here, as aforeſaid?</p>
+            <p>But now to conclude this Head, I do ſay, That many are, or may be ſaved, who are ignorant of Chriſt's Death and Sufferings, according to <hi>R. Bar<g ref="char:EOLhyphen"/>clay,</hi> 
+               <note place="margin">His Apolo<g ref="char:EOLhyphen"/>gy.</note> and yet that none are, or can be ſa<g ref="char:EOLhyphen"/>ved, but ſuch who have the Knowledge of his Death and Sufferings, according to <hi>G. K.</hi> who ſaith, He doth not con<g ref="char:EOLhyphen"/>tradict <hi>R. Barclay;</hi> as alſo that the ex<g ref="char:EOLhyphen"/>preſs <note place="margin">Truth and Innocency, page 17.</note> Knowledge of him in the Out<g ref="char:EOLhyphen"/>ward, is of neceſſity unto Salvation, according to <hi>G. K</hi>'s late Books, and that the expreſs Knowledge of him, as in the Outward, is not of neceſſity to Salvation, according to his former Books; and yet that he does not con<g ref="char:EOLhyphen"/>tradict himſelf, nor <hi>R. Barclay</hi> neither, in theſe matters, is ſuch a Riddle, that I know not how to unfold.</p>
+            <p>Fourthly, Seeing according to thoſe faithful Friends, <hi>Edw. Burrough</hi>'s and <hi>Samuel Fiſher,</hi> the Light is ſufficient of it ſelf; how is it that you are or can be One with them, to ſay, it is not ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="14" facs="tcp:108181:8"/>
+without ſomething elſe? Seeing, (according to <hi>G. K.)</hi> it is Blaſphemy to ſay, this Light cannot make Satisfa<g ref="char:EOLhyphen"/>ction for the ſins that are paſt, nor give Eternal Peace and Salvation: Then ſurely, by the Rule of Contraries, the Light can do theſe things; how then is it not ſufficient without ſomething elſe?</p>
+            <p>Fifthly. Again, ſeeing (according to <hi>G. K.)</hi> he is not only the true Chriſt who was manifeſt in the Body of Fleſh, but alſo, that he is that only true Chriſt (as manifeſt in us) how is it then that he that is manifeſt in us, is ſome<g ref="char:EOLhyphen"/>thing elſe, then he that was manifeſt in that Body of Fleſh, ſeeing, in both re<g ref="char:EOLhyphen"/>ſpects, he is ſo confeſſed to be the only true Chriſt and Saviour? And ſurely the word [only] is alone, and admits of nothing elſe.</p>
+            <p>Sixthly. Seeing it is our Principle, which <hi>(G. K.</hi> ſaith) <hi>Robert Gordin</hi> with open Mouth ſmites againſt, <hi>viz.</hi> That the Light is the true Chriſt or onely Saviour, Mediator and Redeemer, and that there is not another; and that, as it condemns, ſo is able, of it ſelf, to ſave and redeem, as Man becomes Obe<g ref="char:EOLhyphen"/>dient
+<pb n="15" facs="tcp:108181:8"/>
+thereunto: Now I ſay, if this Light be able <hi>of it ſelf,</hi> to ſave and re<g ref="char:EOLhyphen"/>deem, as Man becomes Obedient there<g ref="char:EOLhyphen"/>unto, how is it, that it is not ſufficient to ſave without ſomething elſe? His Compariſon of ones ſaying, <hi>(John Delaval</hi>'s) not being a Man without his Soul, denies him not be a Man, halts too much to reach the matter; for the Queſtion ſhould not be, whether a Man be a Man without his Soul, be<g ref="char:EOLhyphen"/>cauſe the Queſtion is not, whether Chriſt be Chriſt without the Man Chriſt? But, whether the Man Chriſt be become ſomething elſe beſides Chriſt? For he ſaith, the Light is Chriſt, but the Man Chriſt is ſomething elſe—But to wave ſuch Compariſons.</p>
+            <p>Seventhly, Seeing <hi>G. K</hi>'s Anſwer to <hi>R. Gordin,</hi> implies, that the Light, Power and Spirit within, is Chriſt the only Mediator and Saviour, and that ſo to aſſert, is not to aſſert another Chriſt than Jeſus of <hi>Nazareth,</hi> &amp;c. Then ſurely Jeſus of <hi>Nazareth</hi> cannot be ſomething elſe than the Light, Power and Spirit within; becauſe Jeſus of <hi>Nazareth</hi> is the only Chriſt, Mediator and Saviour; and ſo is the Light,
+<pb n="16" facs="tcp:108181:9"/>
+Power and Spirit within acknowledged to be—And if the ſame, then not any thing elſe.</p>
+            <p>Eighthly. Seeing (according to <hi>G. K.)</hi> the Light within is God and Chriſt, and yet not ſufficient without ſomething elſe; is not this as much as to ſay, God and Chriſt is not ſufficient without ſomething elſe, or ſomething beſides? For ſo he ſaith, the word (elſe) ſignifies And how it is then ſaid in <hi>Hoſea</hi> c. 13. 4. <hi>Thou ſhalt know no God but me, for there is no Saviour beſides me?</hi> Where is now (the ſomething elſe?) And whereas he owns the Light within to be Chriſt in expreſs words, but by that (ſomething elſe) he ſaith, he means the Man-Chriſt; doth not this imply two Chriſts, <hi>to wit,</hi> Chriſt one thing, and the Man Chriſt ſome other thing, or ſomething beſides Chriſt? But now though we cannot yield to <hi>G. K.</hi> in theſe his Terms, that the Light is not able of it ſelf, and conſequently, that God, by <hi>G. K</hi>'s own words, who ſaith, the Light is God, is not able to ſave, becauſe we believe, beſides him there is no Saviour; yet we do not in the leaſt queſtion, but dearly own and ac<g ref="char:EOLhyphen"/>knowledge
+<pb n="17" facs="tcp:108181:9"/>
+and believe the way and means that the Lord was pleaſed out of his infinite Love and Good Will to Mankind, to take, in order to redeem him from Sin and Death, as ſending his only begotten Son into the World, not only as a Light to ſhew us the way we ſhould go, and a Spirit to convince and reprove us of our Sins, and enable us againſt the Act thereof; But alſo as Man, in the prepared Body to offer up himſelf a moſt acceptable Sacrifice for the Sins of the whole World; Which Offering the Lord was pleaſed to accept of, and by his Spirit and Power it is made effectual for the Reconciliation and Salvation of all thoſe that repent of their Sins, and truly believe in his Name: And that God doth not ſave any without reſpect to that great Offer<g ref="char:EOLhyphen"/>ing, we all grant, and truely believe: For as <hi>G. K.</hi> ſaith, The Lord having <note place="margin">Light of Truth, p. 6.</note> ordained it ſo to be, how can or dare we ſay therefore, That he was or is not ſufficient by his Light, Power, and Spi<g ref="char:EOLhyphen"/>rit, to ſave, without ſomething elſe?</p>
+            <p>Surely this ſeems to me too preſum<g ref="char:EOLhyphen"/>ptuous <note place="margin">Acts 2. 22.</note>
+               <pb n="18" facs="tcp:108181:10"/>
+ptuous an Expreſſion; For was not that Body prepared of God? And what was done in it, is it not ſaid, God did it by him?</p>
+            <p>So that the ſcruple with us is not in the leaſt what God hath done, or doth do for loſt Man, (as <hi>G. K.</hi> often diſ-in<g ref="char:EOLhyphen"/>geniouſly words it) by altering the ſtate of the Controverſie, which never was, <hi>What God or Chriſt hath done for us,</hi> nor <hi>of the Way and Means he hath taken to Redeem us, according as it's recorded in the Holy Scripture;</hi> but, <hi>What He by his Light and Spirit is ſufficient to do:</hi> For we ſay, He being God, can do as he pleaſeth, elſe how is he God Almighty and Omnipotent? Therefore let us not undertake to argue as if there were any thing that God by his Light, Spirit, and Power, is not ſuffi<g ref="char:EOLhyphen"/>cient to do; and we need not debate any longer about it.</p>
+            <p>Ninthly, If, according to that Faith<g ref="char:EOLunhyphen"/>ful Friend and Brother, <hi>Edward Bur<g ref="char:EOLhyphen"/>roughs,</hi> That <hi>We</hi> (meaning the Qua<g ref="char:EOLhyphen"/>kers) <hi>would have ſuch to Reign, who Rule for the Lord, Exerciſing and Exe<g ref="char:EOLhyphen"/>cuting</hi>
+               <pb n="19" facs="tcp:108181:10"/>
+               <hi>Righteous Judgments by the Spirit of God:</hi> Then muſt it not be ſuch who are lead by the Spirit of God? And if ſo, then Sons of God: And ſurely, as <hi>Edward Burroughs</hi> ſaith, ſuch are of us.</p>
+            <p>Now how does your Faith agree with his in this matter, that ſay, No Chriſtians can Rule?</p>
+            <p>And if it be our Faith, (as G. K. ſaith it is) That Magiſtrates may preach, then ſurely it is our Faith that Preach<g ref="char:EOLhyphen"/>ers may be Magiſtrates.</p>
+            <p>Againſt which Practice it ſelf, G. K. hath (all of a ſudden) very Unmanly; as well as Unchriſtianly, appeared; expoſing Friends to the World in Print about it, without ever admoniſhing them before-hand of it<hi>:</hi> For was not that his place to have done, when he reckoned himſelf an Elder in the Church among us, as well as that he was a Neighbour inhabiting in the Town among Friends, that then were in place of Government?</p>
+            <p>But (which is moſt to be obſerved) that inſtead of reproving them for Re<g ref="char:EOLhyphen"/>taking a Sloop, (for which Act he has
+<pb n="20" facs="tcp:108181:11"/>
+ſince expoſed them) or admoniſhing about it, he comes to them and Com<g ref="char:EOLhyphen"/>mended them for what they did, and ſaid, It was very well done, <hi>&amp;c.—</hi>Methinks you ſhould conſider theſe things.</p>
+            <p>But to the matter, How it ſhould be our Faith that Magiſtrates may preach, according to G. K's former Doctrine, and yet againſt our Faith that Preach<g ref="char:EOLhyphen"/>ers ſhould be Magiſtrates, according to his latter Doctrine; and yet that there is no Contrariety between his preſent and former Doctrine (as he ſaith there is not) is ſure too hard to reconcile.</p>
+            <p>Tenthly, Since, according to G. K's expreſs words, <hi>Chriſt's glorified Body now in Heaven, is no more a Body of Fleſh, Blood, and Bones;</hi> but a <hi>pure, ethereal or Heavenly Body,</hi> like unto which the Bo<g ref="char:EOLhyphen"/>dies of the Saints are to be at the <hi>Reſur<g ref="char:EOLhyphen"/>rection,</hi> as before; and that we firmly believe that one Mediator between God and Man to be the Man Chriſt Jeſus, according to the expreſs Teſtimony of Scripture; and that he ever lives to make Interceſſion for us according to the
+<pb n="21" facs="tcp:108181:11"/>
+will of God; ſo we deſire to reſt ſatis<g ref="char:EOLhyphen"/>fied therein, without aſpiring to attain to high things beyond our reach; or (as <hi>David</hi> ſaid) <hi>Not to exerciſe our ſelves in things too high for us,</hi>
+            </p>
+            <p>Eleventhly, Concerning the Reſur<g ref="char:EOLhyphen"/>rection, ſince it is enough, according to that Faithful Friend and Brother, <hi>William Penn,</hi> That we believe in the Reſurrection, and that of a Glo<g ref="char:EOLhyphen"/>rious and Incorruptible Body, with<g ref="char:EOLhyphen"/>out farther Nicities: And if in Spi<g ref="char:EOLhyphen"/>rit and Doctrine you are one with him herein, why then do you obtrude ſuch Queſtions upon us, <hi>Shall the ſame Body riſe?</hi> Or, <hi>Shall any thing of this Body riſe?</hi>
+            </p>
+            <p>But ſeeing it is ſafeſt in this, and all <note place="margin">At the Bank Meeting Houſe in the 4th Month, 1693.</note> other matters of Faith, to keep to Scri<g ref="char:EOLhyphen"/>pture-words, according to J. C. why then would not our Faith be taken, when ſo often offered, to be delivered in the very words of Scripture? But more of this hereafter.</p>
+            <p>
+               <pb n="22" facs="tcp:108181:12"/>
+I ſhall now ſum up, in ſhort, the ſubſtance of ſome of the aforeſaid Paſ<g ref="char:EOLhyphen"/>ſages, <hi>&amp;c.</hi> wherein he is, to me, ſo clearly inconſiſtent with the Doctrine of Faithful Friends, as alſo greatly in contradiction to himſelf; as well as that he is guilty of ſtrange Abſurdities therein, which take as followeth, <hi>viz.</hi>
+            </p>
+            <p>Men may be ſaved who are ignorant <note place="margin">R. Barclay.</note> of Chriſts Death and Sufferings.</p>
+            <p>None are ſaved but who have the <note place="margin">The Places cited before.</note> knowledge of Chriſts Death and Suffer<g ref="char:EOLhyphen"/>ings.</p>
+            <p>The expreſs knowledge of his Suffer<g ref="char:EOLhyphen"/>ings and Death, as Man, in the Out<g ref="char:EOLhyphen"/>ward, is univerſally neceſſary to Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The expreſs knowledge is not univer<g ref="char:EOLhyphen"/>ſally neceſſary to Salvation.</p>
+            <p>The Light is ſufficient of it ſelf.</p>
+            <p>The Light is not ſufficient without ſomething elſe.</p>
+            <p>The Light is able to ſave and redeem of it ſelf.</p>
+            <p>The Light is not ſufficient without ſomething elſe.</p>
+            <p>
+               <pb n="23" facs="tcp:108181:12"/>
+The Light within is God and Chriſt.</p>
+            <p>The Light within is not ſufficient without ſomething elſe.</p>
+            <p>The Light, Power, and Spirit within, is Chriſt the only Mediator and Saviour.</p>
+            <p>The Light is not ſufficient to ſave, without ſomething elſe.</p>
+            <p>It is our Faith that Magiſtrates may <note place="margin">G K. A <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ſtim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> p. 3.</note> preach.</p>
+            <p>It is our Faith that Preachers may not be Magiſtrates.</p>
+            <p>That which riſes is the Corruptible, <note place="margin">Truth Ad<g ref="char:EOLhyphen"/>vanc'd, page 118.</note> that puts on Incorruption.</p>
+            <p>That which riſes is a pure noble part, that conſumeth not, nor corrupteth.</p>
+            <p>Note, now, pray Friends, and conſi<g ref="char:EOLhyphen"/>der, how does your Faith well agree with the Faith of all faithful Friends, in all parts of the World? And how incon<g ref="char:EOLhyphen"/>ſiſtent is <hi>G. K</hi>'s Faith and Doctrine, ſurely the impartial among you may ea<g ref="char:EOLhyphen"/>ſily diſcern. But again,</p>
+            <p>It is a real degree of Blaſphemy to ſay, <note place="margin">Refutation, page 33.</note> The Light cannot make ſatisfaction for the ſins that are paſt, nor give Eternal Peace and Salvation.</p>
+            <p>
+               <pb n="24" facs="tcp:108181:13"/>
+But the Light is not ſufficient with<g ref="char:EOLhyphen"/>out ſomething elſe.</p>
+            <p>The Light or Principle in Man being God, can do all things.</p>
+            <p>But the Light is not ſufficient to ſave, without ſomething elſe.</p>
+            <p>And now notwithſtanding, the Pre<g ref="char:EOLhyphen"/>tences <hi>G. K.</hi> hath made for this Separa<g ref="char:EOLhyphen"/>tion, was for want of having Juſtice againſt 2 Ancient Miniſters, with ſome other Reaſons in his Book called, <hi>Some Cauſes and Reaſons,</hi> &amp;c. Yet when we call to mind the many expreſſions that he hath uttered to ſeveral Friends, upon diſtinct Diſcourſes with them, as alſo ſome paſſages that are dropt here and there in his late Books, we cannot but conclude that he did either intend to conform Friends to ſome Doctrine, of which, by what follows, the 12 <hi>Revo<g ref="char:EOLhyphen"/>lutions</hi> may be ſuppoſed to be not the leaſt in his Eye, or elſe to ſeparate from them; Some of which Paſſages and Expreſſions from whence we ſo con<g ref="char:EOLhyphen"/>clude, are to this purpoſe as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:108181:13"/>
+Becauſe in this Catechiſm he con<g ref="char:EOLhyphen"/>cludes, <note place="margin">1ſt. <hi>G. K.</hi> p. 8.</note> That the Sons of the firſt Co<g ref="char:EOLhyphen"/>venant cannot periſh, though they die in that State; and yet the State of the ſecond Covenant being abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for them to Witneſs, is in order to the perfecting their Salvation. <note place="margin">Page 10.</note> Then I ask, When muſt they obtain that ſecond Covenant-State, if they die without it, unleſs they come again, ſeeing, in the Grave there is no Repen<g ref="char:EOLhyphen"/>tance?</p>
+            <p>And in another Book he ſaith, That <note place="margin">G. K<hi>'s</hi> Preſ<g ref="char:EOLhyphen"/>byterian In<g ref="char:EOLhyphen"/>dependant, p. 115.</note> Men have been in a State of Salvation and Acceptance with God, who have not had the Myſtery of Chriſt's Death and Reſurrection made known unto them, and ſurely theſe Men continuing faithful to what they had received, when ſaith he, they could not periſh.</p>
+            <p>And in another Book he ſaith, They <note place="margin">Refutation, paga 4.</note> could not periſh, though they died in that State.</p>
+            <p>Now I ſay, If they could not pe<g ref="char:EOLhyphen"/>riſh, though they died without Faith and Knowledge, and yet that Faith and Knowledge is abſolutely neceſſary to perfect their Salvation<hi>:</hi> I again
+<pb n="26" facs="tcp:108181:14"/>
+ask, Where muſt they have that Faith and Knowledge, unleſs they come a<g ref="char:EOLhyphen"/>gain to receive it? And if they do, what will then become of that Text <note place="margin">G. K's Pres<g ref="char:EOLhyphen"/>byterian and Independent viſible Ch. c. 8. p. 259.</note> brought by <hi>G. K.</hi> againſt the <hi>New-England</hi> Profeſſors, arguing for Non-Perfection in this Life, <hi>viz. Eccl.</hi> 11. 13. where it is ſaid, <hi>As the Tree falls, ſo it lies.</hi> Now according to this Text brought by <hi>G. K.</hi> himſelf, if an ho<g ref="char:EOLhyphen"/>neſt <hi>Indian,</hi> or poor Infant, die or fall without that outward Knowledge, ſo they muſt lie. And then if they can<g ref="char:EOLhyphen"/>not be perfectly ſaved without it, then their lying muſt be but as Souls ſaved in part, and that to be their State for ever; becauſe, as they fall, ſo they lie. Again, his ſtrange way of expreſſing <note place="margin">Page 100.</note> himſelf in the aforeſaid Book, where he ſaith, God hath given ſufficient to all Men, whereby they may be ſaved one time or other [before the end of the World.]</p>
+            <p>And in another Book he ſaith, Who<g ref="char:EOLhyphen"/>ſoever <note place="margin">Pretended Antidote, p. 98.</note> is not ſaved one time or other before the end of the World, the cauſe and fault is in themſelves, <hi>&amp;c.</hi> Much more might be inſtanced, which is
+<pb n="27" facs="tcp:108181:14"/>
+taken notice of elſewhere. But now, as to what he hath ſaid to Perſons.</p>
+            <p>Becauſe he told <hi>Ebenezer Slocam</hi> of <hi>Road-Iſland,</hi> as he affirms, to this pur<g ref="char:EOLhyphen"/>poſe—That it was God<g ref="char:punc">▪</g>s great Mer<g ref="char:EOLhyphen"/>cy to the <hi>Jebuſites, Amorites</hi> and <hi>Hittites</hi> of old, in that he deſtroyed them ſo much at once by the <hi>Iſraelites,</hi> for that by ſo doing, their Souls might be ſooner come into the Bodies of the <hi>Jews</hi> Children, and ſo conſequently be<g ref="char:EOLhyphen"/>come the ſooner to be Members of the Viſible Church, <hi>&amp;c.</hi>
+            </p>
+            <p>Becauſe he told <hi>John Delaval,</hi> as he affirmed, That he believed, God would lay it upon him to Preach the Doctrine of the Revolution of Souls, for though he hath denyed it, yet we have reaſon to believe <hi>John Delaval</hi> before him, becauſe we know he hath denyed ſince, what he hath ſpoken to other Perſons.</p>
+            <p>Becauſe he told my ſelf and <hi>John De<g ref="char:EOLhyphen"/>laval,</hi> That there were not above ſix Friends in the World that Preacht Chriſt aright, which he hath ſince de<g ref="char:EOLhyphen"/>nyed.</p>
+            <p>
+               <pb n="28" facs="tcp:108181:15"/>
+Becauſe he called <hi>George Fox</hi> a good Gentile Preacher; which he alſo de<g ref="char:EOLhyphen"/>nyed, till <hi>Jedediah Allen</hi> proved it upon him at the Bank great Meeting, the 7th Day of the 4th Month, 1693.</p>
+            <p>Becauſe he told <hi>John Wilford,</hi> That Friends were not the People, but that there muſt come another People.</p>
+            <p>Becauſe he told <hi>John Kinſey,</hi> That if he could but get a Company to ſtand by him, he would leap over them that ſtood in oppoſition againſt him, as ſo many Straws.</p>
+            <p>Becauſe with ſome Diſguſt he took with <hi>Margaret Beardſley,</hi> in diſcourſe with her, he ſaid after this manner, I'll promiſe you, if you ſerve <hi>George Keith</hi> ſo, <hi>George Keith</hi> will leave you, and then you ſhall wander about for lack of Knowledge, and ſhall not find it.</p>
+            <p>Surely now Friends, theſe things conſidered impartially by you, how can you think <hi>George Keith</hi> ſincere, when he ſaith, he is in dear Unity with all faithful Friends and Brethren in all parts of the World, both in Spirit and Doctrine; and can he be ſincere now,
+<pb n="29" facs="tcp:108181:15"/>
+or in his laſt Anſwer to <hi>Cotton Mather</hi> too? For now he ſaith, We are Unbe<g ref="char:EOLhyphen"/>lievers, Hereticks and holders of falſe Doctrine: But then he ſaid, he did not only know us and our Principles, far better than <hi>Cotton Mather</hi> and all his Brethren, but ſolemnly challengeth him at the ſame time, to give him but one ſingle Inſtance of any one funda<g ref="char:EOLhyphen"/>mental Article of the Chriſtian Faith denyed by us a People; or by any one of our Preachers or Writers, as gene<g ref="char:EOLhyphen"/>rally owned or approved of by us—Thus far <hi>George Keith,</hi> in Praiſe of the Quakers Doctrine, and that from the great Reaſon, he ſaid, He had to know them, by the near intimacy he hath had with them, not only in <hi>Europe,</hi> but for theſe divers years (ſaith he) in <hi>Ame<g ref="char:EOLhyphen"/>rica.</hi>
+            </p>
+            <p>Obſerve this, his Praiſing our Do<g ref="char:EOLhyphen"/>ctrine, was Printed few Months (if any) before he ſeparated from us, un<g ref="char:EOLhyphen"/>der pretence of our being Hereticks, Unbelievers, and holders of falſe Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>
+               <pb n="30" facs="tcp:108181:16"/>
+Now is it not ſtrange, that ſuch a great Body of People, hereaway at leaſt, ſhould be ſo ſoon degenerated in point of Doctrine, eſpecially as we muſt needs be, if we are ſuch Hereticks and Unbelievers as he renders us to be?</p>
+            <p>But now a little concerning the Cla<g ref="char:EOLhyphen"/>mour he hath made of late againſt Friends in his Books for their denying (as he falſly ſaith) the Reſurrection of the Dead. For my part, I really think it had been better he had kept himſelf more cloſe to Scripture in it, as well as more conſiſtent with himſelf about it, before he had gone about unjuſty to quarrel with us concerning it.</p>
+            <p>For I muſt needs ſay, I cannot ſee how he can reckon himſelf conſiſtent with himſelf in this matter, if you ſe<g ref="char:EOLhyphen"/>riouſly conſider what follows.</p>
+            <p>For whereas he ſaith in one place, <note place="margin">A Teſtimony againſt that abſurd Opi<g ref="char:EOLhyphen"/>nion, p. 3.</note> where he goes about to demonſtrate what part of a Man's body ſhall riſe; ſaith he, That which riſeth, is the Mortal that puts on Immortality, and the Corruptible which puts on Incor<g ref="char:EOLhyphen"/>ruption:
+<pb n="31" facs="tcp:108181:16"/>
+But in another place he ſaith, The Fleſh that is Mortal and Corruptible, is not that Fleſh that ſhall <note place="margin">Ibid. p. 10.</note> be raiſed up Immortal and Incorrup<g ref="char:EOLhyphen"/>tible. And in another Book he ſaith <note place="margin">Truth ad<g ref="char:EOLhyphen"/>vanced, <hi>&amp;c.</hi>
+               </note> of that which riſeth, That it is a pure noble part, that conſumeth not, nor corrupteth—Now I ask, If that which riſes be the corruptible, how is it that that which riſes is incorruptible and corrupteth not again?</p>
+            <p>Whereas he ſaith from <hi>Phil.</hi> 3. 21. <note place="margin">Ibid. p. 10.</note> where the Apoſtle ſaith, <hi>He ſhall change our vile bodies,</hi> &amp;c. Now (ſaith <hi>George Keith)</hi> It is clear from this, that the change is not a Commutation of one thing for another, but a Tranſmutation from one thing to another, even as the Soul when Sanctified, is the ſame for Subſtance, as it was before the filth of ſin, <hi>&amp;c.</hi> was ſeparated from it; and as Aſhes or Sand is turned into Glaſs, and yet the ſame for Subſtance as be<g ref="char:EOLhyphen"/>fore: Now as he is proving this as a thing yet to come, he ſaith, The bodies of the Saints remain low, weak, mortal and corruptible, and not made like to Chriſt's Glorious body, till the Reſur<g ref="char:EOLhyphen"/>rection
+<pb n="32" facs="tcp:108181:17"/>
+of the Dead; importing that then will be the change (meant in the Text) of this low, weak and corrup<g ref="char:EOLhyphen"/>tible body into an incorruptible one; Then I ſay, How is it that he ſaith, That the Fleſh which is Corruptible, is not that Fleſh which ſhall be raiſed up Incorruptible; and yet, that the Text muſt mean, That this Vile and Corruptible, muſt be changed into Incorruptible? But if the Corruptible be laid aſide, and that which corrupt<g ref="char:EOLhyphen"/>eth not, but is ſeparated (as he ſaith) in about a years time, more or leſs, and laid by Divine Providence in ſome cer<g ref="char:EOLhyphen"/>tain inviſible place till the Reſur<g ref="char:EOLhyphen"/>rection: How then doth it receive the change meant by him in the Text, at the Reſurrection? <hi>viz.</hi> If it be Incor<g ref="char:EOLhyphen"/>ruptible before the Reſurrection (for he ſaith, It corrupteth not) and the change muſt be a Tranſmutation from one thing to another; muſt it not then needs be, from an Incorruptible body to an Incorruptible body? And what change is that?</p>
+            <p>
+               <pb n="33" facs="tcp:108181:17"/>
+For if it be a Tranſmutation, what is it which is Tranſmuted? It cannot be the Noble and Pure part, becauſe the Apoſtle ſaith, <hi>It is our vile Body:</hi> And according to <hi>George Keith,</hi> it can<g ref="char:EOLhyphen"/>not be that which corrupteth, becauſe he ſaith, That which riſeth corrupteth not: Now whereas he goes about to demonſtrate the matter of the Soul's being the ſame for Subſtance as it was before its being purified from ſin, <hi>&amp;c.</hi> and alſo of Aſhes and Sand being the ſame for Subſtance (when made into Glaſs) as before, and ſuch like.</p>
+            <p>Now to me this is very ſhort of the matter; for, as for the Soul, it was a Spiritual Subſtance in its ſelf, before its Sanctifying, as after; (ſo is not the Body) ſo that ſuch a change is ſurely rather a Purification than a Tranſmuta<g ref="char:EOLhyphen"/>tion, even as the waſhing of a body beſmeared with Dirt, when cleanſed, is a Purification, and not a Tranſmu<g ref="char:EOLhyphen"/>tation.</p>
+            <p>And as for Aſhes and Sand, it is ſtill of a Temporal and Corruptible Na<g ref="char:EOLhyphen"/>ture after it is Tranſmuted into Glaſs, as well as before<hi>:</hi> So that unleſs he
+<pb n="34" facs="tcp:108181:18"/>
+could demonſtate how a Natural &amp; Cor<g ref="char:EOLhyphen"/>ruptible Subſtance, (as ſuppoſe Aſhes or Sand) can be turned into a Spiritual and Incorruptible One, and yet be the ſame for matter and Subſtance as it was before that change: All that I find he hath ſaid, is (to me) far from the Matter in hand: Again, if the groſſy <note place="margin">Ibid. p. 114 113. 117.</note> part (which he ſaith, is called by <hi>Paul,</hi> Corruption) is not proper to Man as Man (as he intimates) nor no proper part of Man's body, and the other part corrupteth not; then no proper part of Man's body, nor nothing of Man, as Man, corrupteth; How then is it ſaid of <hi>David, That he ſlept with his Fathers and ſaw corruption?</hi> And if <note place="margin">
+                  <hi>Acts</hi> 13. 36</note> nothing that is proper to Man, as Man, <note place="margin">Rom.</note> corrupteth; How is Man in Scrip<g ref="char:EOLhyphen"/>ture called corruptible Man? And how is it that <hi>Job</hi> ſaid in his day, <hi>I</hi> 
+               <note place="margin">Job.</note> 
+               <hi>have ſaid of corruption, Thou art my Father, and to the Worms, Thou art my Siſter?</hi> Again, whereas he ſaith (ſpeaking of the Principle or Sub<g ref="char:EOLhyphen"/>ſtance of the body, which he calls the viſible part) Though the Man-eater <note place="margin">Truth ad<g ref="char:EOLhyphen"/>vanced, <hi>&amp;c</hi>
+               </note> (ſaith he) may eat the groſs part of
+<pb n="35" facs="tcp:108181:18"/>
+Man's body, yet that more ſubtle and inviſible part, they cannot eat: Now what is this, but to ſay, they may eat Man's body, but they cannot eat the Subſtance of Man's body? And is not this as contrary to that common Underſtanding God hath given Man to judge of, and diſtinguiſh things by, as the Popiſh Doctrine of Tranſubſtan<g ref="char:EOLhyphen"/>tiation?</p>
+            <p>For the Papiſts ſay, Though as to their Senſe, they eat the very Bread, it having the very colour, the ſmell, the taſte and ſhew of Bread, yet the Sub<g ref="char:EOLhyphen"/>ſtance of Bread they eat not: So <hi>G. K.</hi> holds, That though Man-eaters may eat the viſible part of Man's body, which is ſeen with the outward Eyes, yet the Matter and Subſtance of Man's body they cannot eat; What ſtrange Doctrine is this? And if any ſay, things that are impoſſible to Man, are poſſible with God; ſo ſay the Papiſts for their Doctrine of Tranſubſtantia<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Now to conclude this matter, I do ſay, Though the Scripture is very plen<g ref="char:EOLhyphen"/>tiful of Teſtimonies and Proofs of the
+<pb n="36" facs="tcp:108181:19"/>
+Reſurrection of the Dead, and that, according thereunto, we firmly believe there ſhall be a Reſurrection both of the Juſt and of the Unjuſt, the one to Eternal Life, the other to Condemna<g ref="char:EOLhyphen"/>tion; and that herein it is, that we exerciſe our ſelves to have a Conſcience void of offence towards God, and to<g ref="char:EOLhyphen"/>wards Man: And that, if in this life we have hope only, we are of all Men moſt miſerable<hi>:</hi> Yet I ſay, though we firmly believe this according to Scripture; we do not think it a neceſ<g ref="char:EOLhyphen"/>ſary buſineſs to be curiouſly prying in<g ref="char:EOLhyphen"/>to the manner of it, neither do we find the Primitive Chriſtians come to any expreſs Reſult about what their bodies ſhould be. For,</p>
+            <p>Firſt. If it was the common belief of the Primitive Chriſtians, That the very ſame <hi>Matter</hi> and <hi>Subſtance</hi> of this corruptible body, ſhould be the body that is raiſed, why ſhould any (among themſelves eſpecially) have asked ſuch a needleſs Queſtion, as <hi>[With what bo<g ref="char:EOLhyphen"/>dy do they come?]</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:108181:19"/>
+Secondly. But then ſuch a Queſtion <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing asked, would not the Apoſtle think you (who was ready to give every Man an anſwer of the hope that was in him) have anſwered more to the mat<g ref="char:EOLhyphen"/>ter, and ſaid, <hi>Thou Fool,</hi> what doſt thou ask that for? Inaſmuch as it is our common belief, that it is the very ſame body for Matter and Subſtance, which is buried in the Grave: The Matter and Subſtance whereof being, in com<g ref="char:EOLhyphen"/>mon acceptation, the ſame Fleſh, Blood and Bones. But inſtead of that, ſaid he, <hi>Thou Fool, that which thou ſoweſt, is not quickened except it die: And thou ſoweſt not the Body that ſhall be:</hi> So that as a Grain ſowed in the Field, is not quickened except it die; So Mankind, (on whom, through the envy of the Devil, came Death) being ſown in the Field of the World, as unleſs he firſt come to die unto ſin, is not quickened or raiſed to the Life of Righteouſneſs here in this World; ſo nor until he come to die the bodily death, is he raiſed to the State of Glory with ſuch a Spiritual body as it ſhall pleaſe God
+<pb n="38" facs="tcp:108181:20"/>
+to give in the World to come: And ſo that which is ſown, is not quickened except firſt it die.</p>
+            <p>Thirdly. Becauſe, as to what body it ſhall be, he anſwers in the <hi>Negative,</hi> to wit, That which thou ſoweſt, is not that body that ſhall be, but bare Grain, <hi>&amp;c.</hi> and then concludes, that God gives a body, as it pleaſeth him, and yet to every Seed its own body; ſo that none ſhall be inveſted with ano<g ref="char:EOLhyphen"/>thers body, but its own proper, yet a Spiritual body, and ſuch a one as it ſhall pleaſe God to give; with whoſe good pleaſure I deſire my Soul may reſt ſatisfied in all things (as long as I have a Being) <hi>viz.</hi> Concerning what bodies he will be pleaſed to give at the Re<g ref="char:EOLhyphen"/>ſurrection of the Dead.</p>
+            <p>Now Friends, methinks you may eaſily ſee what a ſtrange <hi>Babel G. K.</hi> is a building.</p>
+            <p>And why was not the <hi>Almanack-Ma<g ref="char:EOLhyphen"/>ker</hi> ſo Ingenious and Impartial, ſince he would needs be doing and medling
+<pb n="39" facs="tcp:108181:20"/>
+with things ſo impertinent to an <hi>Alma<g ref="char:EOLhyphen"/>nack,</hi> and inſtead of ſuch ſilly idle ſtuff he there puts in, to have taken notice of ſome of the confuſed work which <hi>G. K.</hi> hath made of late amongſt us alſo; but it is a true ſaying, <hi>Prejudice blinds Men.</hi> But now farther, as to the <hi>Almanack-Maker,</hi> I ſhall take a little notice of the noiſe he makes therein concerning ſome Quakers at <hi>Philadelphia,</hi> who (he ſaid) perſecuted their Brethren about a Re<g ref="char:EOLhyphen"/>ligious difference, <hi>&amp;c.</hi> A high Charge, but ſooner ſaid than proved: For all Men that are brought before Magi<g ref="char:EOLhyphen"/>ſtrates and Courts, are not ſufferers for Religion, though true it is, Men on the one hand may be Petſecutors for Religion, and yet pretend other mat<g ref="char:EOLhyphen"/>ters for their doing ſo; on the other hand, Men may be Abuſers of Chri<g ref="char:EOLhyphen"/>ſtian Liberty, by doing things under pretence of Conſcience and Religion, for which the Magiſtrates may be Juſti<g ref="char:EOLhyphen"/>fiable both to call them to an Account, and (if occaſion be) to puniſh them for it: This ſurely <hi>G. K.</hi> will not deny; for doth not he himſelf, (in his late Anſwer to <hi>Cotton Mather,</hi> when ſpeak<g ref="char:EOLhyphen"/>ing
+<pb n="40" facs="tcp:108181:21"/>
+of a Woman that went ſtark na<g ref="char:EOLhyphen"/>ked into a Publick Aſſembly) ſay, That we (meaning the Quakers) all judge that any ſuch Practice doth deſerve Corporal Puniſhment, and that ſhe de<g ref="char:EOLhyphen"/>ſerved much more puniſhment than Impriſonment for it; yet this Woman pretended Religion for what ſhe did<hi>:</hi> Now admit the Magiſtrates here had been full as bad in other matters, as you have rendered them to be, yet that would not juſtifie them in abuſing of them, in thoſe matters for which they were called to an Account; nor did I ever read, that I can remember, That any were Recorded as Sufferers for Conſcience ſake, when it was for a<g ref="char:EOLhyphen"/>buſing and belying of Magiſtrates both in Print and otherwiſe, as theſe did at <note place="margin">Appeal it in the 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>&amp;c.</hi> p. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Philadelphia,</hi> Printing that the Magi<g ref="char:EOLhyphen"/>ſtrates not only countenanced the hire<g ref="char:EOLhyphen"/>ing of Men to fight, but alſo gave them a Commiſſion ſo to do, Signed by Three Juſtices of the Peace, whereof one was a Preacher, and that the Worldly Go<g ref="char:EOLhyphen"/>vernment was here engroſſed by the Miniſters, in all which are theſe falſ<g ref="char:EOLhyphen"/>hoods againſt the Magiſtrates.</p>
+            <p>
+               <pb n="41" facs="tcp:108181:21"/>
+Firſt. That they Signed a Commiſ<g ref="char:EOLhyphen"/>ſion to fight: This falſhood was of very bad tendency, thus to Print abroad to the World, That the Magiſtrates, and that Quakers too, ſigned a Commiſſion to fight, for this is more than they had Power to do, being Civil Magiſtrates, for that Power was given by the King to none but the Governour, his Cap<g ref="char:EOLhyphen"/>tains or Officers; ſo that they might have been called to an Account for it, and rendered ridiculous to the World about it.</p>
+            <p>The ſecond falſhood was, That it was Signed by three Juſtices of the Peace, whereof one was a Preacher; whereas it being but a Warrant of the Hue and Cry, Signed but by two Ju<g ref="char:EOLhyphen"/>ſtices, and neither of them a Preacher.</p>
+            <p>The third falſhood was, That the Miniſters here had ingroſſed the World<g ref="char:EOLhyphen"/>ly Covernment, for there were many that were not Miniſters, nor Quakers neither, then in Government: And doth not the <hi>Almanack Maker</hi> ſay him<g ref="char:EOLhyphen"/>ſelf, That there were then Juſtices who were not Quakers? Conſequent<g ref="char:EOLhyphen"/>ly the Government was not ingroſſed by them. Neither did I ever read,
+<pb n="42" facs="tcp:108181:22"/>
+That any were Recorded as Sufferers for Conſcience ſake, when it was for falſly inſinuating againſt Magiſtrates; as, That one ſhould be carried to Bed Drunk, and another to be as Drunk, that he could ſcarce get over the Ships ſide he was in, and that he Waged his Horſe with <hi>John Slocam,</hi> but being Drunk, the ſaid <hi>Slocam</hi> would not take the advantage of the Wager againſt him. Now though he may ſay, This was but by way of <hi>Quaery,</hi> yet to inſinuate ſuch groſs and falſe things, eſpecially againſt Magiſtrates, though by way of <hi>Quaery,</hi> ſurely is not juſtifia<g ref="char:EOLhyphen"/>ble: For as <hi>Will. Penn</hi> ſaith in his late little Book, <hi>It were intollerable to be a Miniſter of State, if every body muſt be Accuſer and Judge: Let therefore</hi> (ſaith he) <hi>the falſe Accuſer no more eſcape an ex<g ref="char:EOLhyphen"/>amplary puniſhment, than the guilty Mi<g ref="char:EOLhyphen"/>niſter; for</hi> (ſaith he) <hi>it prophanes Go<g ref="char:EOLhyphen"/>vernment, to have the Credit of the Leading Men in it ſubject to vulgar Cen<g ref="char:EOLhyphen"/>ſure, which is often ill grounded;</hi> beſides whatever he may ſay concerning <hi>Quae<g ref="char:EOLhyphen"/>rying,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concludes his Letter more pe<g ref="char:EOLhyphen"/>remptorily than ſo, ſaying, <hi>Let theſe Acti<g ref="char:EOLhyphen"/>ons be alſo condemned</hi> (meaning as well as <hi>G. K</hi>'s Actions were.)</p>
+            <p>
+               <pb n="43" facs="tcp:108181:22"/>
+Again, I never read that any were Recorded as Sufferers for Conſcience ſake, for being either publiſhed by Authority as a perſon publickly reviling the Governour, calling him, Impudent Man, telling him, he was not fit to be a Governor, and that his Name would ſtink, <hi>&amp;c.</hi> Or for being called to an account for expoſing the Reputation of a Judge, Printing him to be an Igno<g ref="char:EOLhyphen"/>rant, Preſumptuous, and Inſolent Man; and alſo for falſly accuſing another Ma<g ref="char:EOLhyphen"/>giſtrate, of putting his hand under Wo<g ref="char:EOLhyphen"/>mens Petticoats bidding him go home to his Whores: This or ſuch-like ſtuff was the matter they call a Religious Dif<g ref="char:EOLhyphen"/>ference, or Religions Diſſent, for which they are called to an account: And ſurely in vain it is, as well as that it is ridiculous, to ſay theſe things were not done or ſpoke againſt them (as Magi<g ref="char:EOLhyphen"/>ſtrates:) For if that might be allowed, might not Magiſtrates at any time be abuſed at the pleaſure of every idle per<g ref="char:EOLhyphen"/>ſon, and then come off with the like Excuſe? More might be ſaid about theſe things, but my chief intent at this time is to ſhew his inconſiſtencies in Doctrinal points, that it may be ſeen,
+<pb n="44" facs="tcp:108181:23"/>
+he is not a Man of ſuch a ſound Judg<g ref="char:EOLhyphen"/>ment, nor of ſo true a Spirit neither, as ſome have taken him to be.</p>
+            <p>For though a man may have much read Prophecies and Chronologies con<g ref="char:EOLhyphen"/>cerning things paſt or to come, and may by comparing things and times one with another (which may be uſeful in its place) ſpeak or write his ſenſe of it, and that ſometimes it may accordingly ſo come to paſs; yet ſuch a man may be of a wrong Spirit for all that, as ſome <hi>Jews</hi> were; for we read, when Chriſt <note place="margin">
+                  <hi>Matth.</hi> 2.</note> was born, <hi>Herod called the Chief Prieſts and Scribes of the People together, to demand of them where He ſhould be?</hi> Who readily and rightly anſwered, <hi>In Bethlehem: for thus it is written, &amp;c.</hi> yet we read that it was the Chief Prieſts and Scribes conſulted how they might kill him, it was the Scribes that mocked him; it was the Scribes that ſaid, <hi>He caſt out Devils by Belzebub the Prince of Devils;</hi> in ſhort, it was the Elders, Chief Prieſts and Scribes that rejected him and cauſed him to Suffer, notwithſtan<g ref="char:EOLhyphen"/>ding it was the Scribes could tell ſo well where he ſhould be born. Then again, may not there be much Erring in Judg<g ref="char:EOLhyphen"/>ment
+<pb n="45" facs="tcp:108181:23"/>
+in taking of Prophecies with a ſence too literally, as the People did, when Chriſt told them of his being lift<g ref="char:EOLhyphen"/>ed up: Now the Scriptures ſpeaking of <hi>Chriſts being a Prieſt for ever;</hi> ſay they, <hi>We have read in our Law, That Chriſt abides for ever; and how ſayeſt thou. The Son of Man muſt be lifted up?</hi> Imagin<g ref="char:EOLhyphen"/>ing that the Scripture meant he was to continue for ever in Perſon among them.</p>
+            <p>Doubtleſs from ſuch kind of Miſtakes it was that they imagined the <hi>Meſſiah</hi> was to redeem them from outward Bondage and Subjection: For whereas we read that <hi>the Government was to be upon his Shoulders,</hi> and that he was <hi>to Rule the Nations with a Rod of Iron,</hi> and be the <hi>Reſtorer of Paths to dwell in;</hi> ſo they imagined this Reſtoration to be from outward Bondage, as aforeſaid; which made them ſay to Chriſt, That <hi>they hoped it had been He that ſhould have redeemed Iſrael:</hi> Nay his very Diſciples to the laſt day of his being among them in Perſon, had not a right underſtand<g ref="char:EOLhyphen"/>ing of it, when they ſaid, <hi>Lord, wilt thou at this time reſtore the Kingdom again to Iſrael?</hi> Unto which Chriſt an<g ref="char:EOLhyphen"/>ſwered plainly, <hi>It is not for you to know</hi>
+               <pb n="46" facs="tcp:108181:24"/>
+               <hi>the Times and Seaſons, which the Father hath put in his own Power,</hi> &amp;c.</p>
+            <p>Again, As ſome Men have, and others may, in ſome things hit right as to the meaning of Prophecies, <hi>&amp;c.</hi> and yet be of a wrong Spirit; So may there not be others who may not ſee ſo far into thoſe things, as a wrong ſpirited Man may do, who may be of a right Spirit? As in the caſe of <hi>Nathaniel,</hi> who, tho' it was ſpoken by the Prophets, that Chriſt ſhould be called a <hi>Nazarine,</hi> yet when <hi>Philip</hi> told him <hi>They had found Je<g ref="char:EOLhyphen"/>ſus of Nazareth,</hi> his Anſwer was, <hi>Can any good thing come out of Nazareth?</hi> Now Chriſt did not preſently call him <hi>Heretick, <g ref="char:V">Ʋ</g>nbeliever, Denier of the Man Chriſt,</hi> or the like; but on the contra<g ref="char:EOLhyphen"/>ry, having regard to the ſincerity of his heart, he ſaid of him, <hi>Behold an Iſraelite indeed, in whom there is no guile.</hi>
+            </p>
+            <p>Now to be plain, This is to ſhew that <hi>G. K</hi> may be (as well as others have been) a Man of great Knowledge in Chronology, yet being led by a wrong Spirit, what doth it profit? Even as the Apoſtle ſaith, <hi>Tho I have the Gift of Pro<g ref="char:EOLhyphen"/>phecy, and underſtand all Myſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, and</hi> 
+               <note place="margin">1 Cor. 13. 1.</note> 
+               <hi>all Knowledge, and tho' I have all Faith ſo</hi>
+               <pb n="47" facs="tcp:108181:24"/>
+               <hi>that I could remove Mountains, and have not Charity, I am</hi> (ſaith he) <hi>Nothing.</hi> Now how far G. <hi>K.</hi> is a Man of Charity, even in ſuch things wherein he himſelf allows Charity ought to be uſed (as I am now coming to ſhew) ſo let all that read it compare it with his late Treat<g ref="char:EOLhyphen"/>ment of Friends, and then judge of it.</p>
+            <p>I am now coming to it, by adding to what I have writ, a very good way and means propoſed by <hi>G. K.</hi> himſelf, to bring the Differences (of thoſe called Chriſtians) in point of Judgment, to a very ſmall compaſs, taken word by word out of his Book called <hi>Truth's Defence, &amp;c.</hi> beginning in page 169.</p>
+            <p>
+               <q>Thus <hi>(ſaith he)</hi> as to the moſt Weighty and Neceſſary Things, to wit, Such as are the General Principles of the Chri<g ref="char:EOLhyphen"/>ſtian Faith and Doctrine; and which as ſuch, are general<g ref="char:EOLhyphen"/>ly to be received by all Chriſti<g ref="char:EOLhyphen"/>ans, as well of thoſe of the meaneſt Capacity, as others of the greateſt Note; We ſee the
+<pb n="48" facs="tcp:108181:25"/>
+Lord hath not left it to Mans Induſtry, to ſearch after them by Conſequences long or ſhort; nor hath not left it to Mans In<g ref="char:EOLhyphen"/>duſtry to ſearch after them, but delivered them to us in plain expreſs Scripture-Words and Terms, over and over again, as in reſpect of many of them in the holy Scriptures; And why is it that the Scriptures are ſo full and large in their Teſtimo<g ref="char:EOLhyphen"/>ny to the Doctrines and Prin<g ref="char:EOLhyphen"/>ciples of Religion, but to let us underſtand that all the Prin<g ref="char:EOLhyphen"/>ciples and Doctrines of the Chriſtian Faith, which God requireth in common of all Chriſtians, are expreſly there Delivered and Recorded, and put as it were in a Publick Re<g ref="char:EOLhyphen"/>giſter. And therefore for my
+<pb facs="tcp:108181:25"/>
+part, what I cannot <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>preſly delivered in Scripture, I ſee no reaſon why I ſhould re<g ref="char:EOLhyphen"/>ceive and believe it as any com<g ref="char:EOLhyphen"/>mon Article or Principle of the Chriſtian Faith or Life; And for ſuch to whom God hath gi<g ref="char:EOLhyphen"/>ven that Divine Skill to dive or dip into the Depth of the Scriptures, ſo as to Collect or Gather by Juſt and True Con<g ref="char:EOLhyphen"/>ſequences other things, that lie out of the view of their weak<g ref="char:EOLhyphen"/>er Brethren, they ought not to obtrude them upon any, to be received as Principles of Faith, but in that caſe to have Faith to themſelves, and receive them as peculiar Diſcoveries or Reve<g ref="char:EOLhyphen"/>lations of the Spirit to them, and ſuch others as God hath ſo enlighten'd. That which by the Apoſtle <hi>Paul</hi> is called, <hi>The</hi>
+                  <pb facs="tcp:108181:26"/>
+                  <hi>Word of Wiſdom,</hi> to wit, Such a peculiar Degree of Wiſdom or Underſtanding in the Depth of the Scriptures, which others (who yet are true Chriſtians) did not reach unto; And con<g ref="char:EOLhyphen"/>cerning ſuch a peculiar Gift of Divine Wiſdom, he ſaid, <hi>We ſpeak Wiſdom among the Perfect;</hi> This certainly could be no com<g ref="char:EOLhyphen"/>mon Article of Faith, eIſe he ſhould have preached it unto all; And this by the ſame Apo<g ref="char:EOLhyphen"/>ſtle is called <hi>The Knowledge of Myſteries,</hi> as diſtinguiſhed from the common Faith and Know<g ref="char:EOLhyphen"/>ledge of the whole Church.</q>
+            </p>
+            <p>
+               <q>Now if this were but receiv'd among thoſe called Chriſtians, That nothing ſhould be requi<g ref="char:EOLhyphen"/>red by one ſort from another, as an Article of Faith, or Do<g ref="char:EOLhyphen"/>ctrine, or Principle of the Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="51" facs="tcp:108181:26"/>
+Religion, in common to be believed, but what is ex<g ref="char:EOLhyphen"/>preſly delivered in the Scrip<g ref="char:EOLhyphen"/>ture, in plain expreſs Scrip<g ref="char:EOLhyphen"/>ture-Terms; of how great an Advantage might it be to bring a true Reconcilement among them, and beget true Chriſtian Unity, Peace, Love and Con<g ref="char:EOLhyphen"/>cord? And as for the Conſe<g ref="char:EOLhyphen"/>quential part of peculiar Do<g ref="char:EOLhyphen"/>ctrines, whether True or Falſe, to leave every one a Freedom or Latitude, without Impoſing the Affirmative or Negative, as any Bond or Tye of Chriſti<g ref="char:EOLhyphen"/>an Fellowſhip.</q>
+            </p>
+            <p>
+               <q>For if ſuch Conſequential be falſe, it's more Unreaſonable to impoſe it; and therefore in <note place="margin">Obſerve, this is Cha<g ref="char:EOLhyphen"/>rity, which G. K. now wants for us.</note> that Caſe, a Diſſenter ſhould have his Liberty to differ in Judgment, without any Breach
+<pb n="52" facs="tcp:108181:27"/>
+of Brotherly Unity and Soci<g ref="char:EOLhyphen"/>ety; And if it be true, yet not being Opened or Revealed to another, it cannot be in Juſtice preſſed upon him, where God has not given him the true Free<g ref="char:EOLhyphen"/>dom and Clearneſs of Mind to receive it: And to do other<g ref="char:EOLhyphen"/>wiſe, is to tranſgreſs that Gol<g ref="char:EOLhyphen"/>den Rule delivered by <hi>Paul,</hi> viz. <hi>To walk by the ſame Rule, ac<g ref="char:EOLhyphen"/>cording to what we have attained; And if any be otherwiſe minded</hi> (ſaith he) <hi>God will reveal it un<g ref="char:EOLhyphen"/>to him.</hi> Or if this Advice could find place, it would bring the Differences (among thoſe called Chriſtians) in point of Judg<g ref="char:EOLhyphen"/>ment, to a very ſmall and nar<g ref="char:EOLhyphen"/>row compaſs; and they would derſtand one another far better than now they do.</q>
+            </p>
+            <p>Thus far <hi>G. Keith</hi> in his ſaid Book.</p>
+            <p>
+               <pb n="53" facs="tcp:108181:27"/>
+Now, pray Friends, conſider of it, for if this advice either had, or yet could find place with you that are gone after <hi>G. K.</hi> or could it have found place with <hi>G. K.</hi> himſelf, when ſo often de<g ref="char:EOLhyphen"/>ſired it might, it is well known, the difference had never come to this furious Printing and Separation as it did: But if you ſay, <hi>G. K.</hi> is of another Mind now, we do not Queſtion that in the leaſt, but then ſurely the more inſincere Man he, ſtill to pretend to be of the ſame Mind; for in his Anſwer to the <hi>New England</hi> Prieſts, he ſpeaking of the Fall of <hi>Adam,</hi> &amp;c. ſaith thus, What the Scripture ſaith of it is readily believed and granted, and it is ſafeſt (ſaith he) in this and all other Matters of Faith to keep to Scripture VVords, eſpecially in all Ca<g ref="char:EOLhyphen"/>ſes and Matters that are in Controverſie; for the Scripture is a Rich Treaſure or Storehouſe ſufficient to afford us Words, whereby to expreſs our Faith in all Mat<g ref="char:EOLhyphen"/>ters of Chriſtian Doctrine; and (ſaith he) it is not ſafe to leave the Scripture Words, <hi>&amp;c.</hi> Nay in his laſt great Book ſo much talkt of before it came out, for a profound piece of Divinity, though as little heeded by many, ſince they ſee what it is; I ſay, in that Book he hath theſe Words, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="54" facs="tcp:108181:28"/>
+But againſt the Doctrine of the Re<g ref="char:EOLhyphen"/>ſurrection <note place="margin">Truth ad<g ref="char:EOLhyphen"/>vanced, page 118.</note> here delivered and opened, by plain evidence of Holy Scripture VVords and Terms, to which it is only ſafe in this and in all other matters of Faith to keep cloſe, <hi>&amp;c.</hi> Thus far again <hi>G. K.</hi> Again</p>
+            <p>Now whereas you ſay, we have giv<g ref="char:EOLhyphen"/>en you to underſtand, VVe have a ſenſe contrary to Scripture VVords, it is ſure<g ref="char:EOLhyphen"/>ly more likely, contrary to your Mean<g ref="char:EOLhyphen"/>ings upon Scripture VVords: But what uncharitableneſs is this, when we offer to expreſs our Faith in Scripture Words, for you to ſay, we have another ſenſe then what we ſpeak? Now I ask, how do you know that? did we either at any time make, or offer to make, any Confeſ<g ref="char:EOLhyphen"/>ſion, but in Scripture Words expreſly? For though here and there a particular Man may have dropt an unadviſed Ex<g ref="char:EOLhyphen"/>preſſion contrary to the Principles of the Church they belong to, both among us, you, and others; yet certainly in this Caſe, I verily believe the fault hath been chiefly in you, for perverting our VVords.</p>
+            <p>Now whereas you alledge, The Pa<g ref="char:EOLhyphen"/>piſts ſay they keep to Scripture Words, when they ſay from Chriſt's Words,
+<pb n="55" facs="tcp:108181:28"/>
+               <hi>This is my Body, &amp;c.</hi> that the very Bread they eat in the Sacrament, is the very Body of Chriſt that was crucified on the Croſs, <hi>&amp;c.</hi>
+            </p>
+            <p>Now I ſay, the Papiſts erring here, is not by keeping, but adding to Scrip<g ref="char:EOLhyphen"/>ture Words, becauſe the Scripture ſaith no ſuch things, only <hi>(This is my Bo<g ref="char:EOLhyphen"/>dy, &amp;c.)</hi> Now in what ſenſe Chriſt called the Bread of the Paſſover his Bo<g ref="char:EOLhyphen"/>dy, in that ſenſe 'twas his Body; even as in what ſence he called himſelf a Door and a Vine, in that ſence he is a Door and a Vine; and ſo we may conclude, with<g ref="char:EOLhyphen"/>out any danger of perverting the Text, or running into Error about that or ſuch like Texts of Scripture. But if ſome of you think yet, That it is not ſafe enough to expreſs our Faith in the expreſs words of Scripture, and ſhould offer any Rea<g ref="char:EOLhyphen"/>ſons for it; let them be offered to <hi>G. K.</hi> and ſee how you can reconcile your Rea<g ref="char:EOLhyphen"/>ſons with the Method he hath laid down, as the only Means to reconcile differen<g ref="char:EOLhyphen"/>ces, as aboveſaid; and if you are one with <hi>G. K</hi>'s Method, then I ſay, it being according to him, not only ſafeſt, but the only ſafe way, to reconcile differen<g ref="char:EOLhyphen"/>ces in Religion, to keep to expreſs Scrip<g ref="char:EOLhyphen"/>ture; Then ſurely all other ways are
+<pb n="56" facs="tcp:108181:29"/>
+unſafe, and why ſhould not this only ſafe way be accepted of us, when we ſo often offered to take that way to ex<g ref="char:EOLhyphen"/>preſs our Chriſtian Belief by? And ſee<g ref="char:EOLhyphen"/>ing, according to <hi>G. K.</hi> there is no o<g ref="char:EOLhyphen"/>ther <note place="margin">Truth ad<g ref="char:EOLhyphen"/>vanced, <hi>page</hi> 17.</note> ſafe way to expreſs our Faith, but in expreſs Scripture VVords: Let me therefore a little Query with you about it.</p>
+            <p>
+               <hi>Firſt,</hi> Where are the expreſs Words of Scripture, that ſay, The ſame Body for Matter and Subſtance ſhall riſe?</p>
+            <p>
+               <hi>Secondly,</hi> Where are the expreſs Scrip<g ref="char:EOLhyphen"/>ture <note place="margin">
+                  <hi>Road Iſland</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eet, <hi>page</hi> 7.</note> Words, that ſay, None but thoſe that have the Faith of Chriſt crucified and raiſed again, can love Enemies, <hi>&amp;c.</hi> according to <hi>G. K</hi>'s Doctrine? <hi>G. K.</hi> himſelf ſaith, That many of the <hi>Gentiles</hi> of old did not only teach things, but al<g ref="char:EOLhyphen"/>ſo, in a large meaſure, practiſe them.</p>
+            <p>
+               <hi>Thirdly,</hi> Where are the expreſs Scrip<g ref="char:EOLhyphen"/>ture <note place="margin">Teſtimony <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> opi<g ref="char:EOLhyphen"/>nion, <hi>page</hi> 3.</note> Words, that ſay, The four hun<g ref="char:EOLhyphen"/>dred pieces of Silver, that <hi>Abraham</hi> pur<g ref="char:EOLhyphen"/>chaſed the Burying-place with, ſigni<g ref="char:EOLhyphen"/>fies four hundred Virtues, and that thoſe that have not thoſe four hundred Virtues, <hi>&amp;c.</hi> cannot have the Privi<g ref="char:EOLhyphen"/>ledge
+<pb n="57" facs="tcp:108181:29"/>
+to be buried in that moſt excel<g ref="char:EOLhyphen"/>lent Burying-place?</p>
+            <p>
+               <hi>Fourthly,</hi> Where are the expreſs Scrip<g ref="char:EOLhyphen"/>ture <note place="margin">Truth ad<g ref="char:EOLhyphen"/>vanc'd, <hi>pag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1.</note> Words, that ſay, <hi>Adam</hi> and <hi>Eve</hi> were not naked before the Fall? And alſo the Garden that God placed Man in in the beginning, was no part of this viſible Earth, nor is the Duſt, of which he was made, ſuch Duſt as we go up<g ref="char:EOLhyphen"/>on; both which he ſaith, are hurtful and dangerous Errors, falſe Doctrine, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> Where are the expreſs Scrip<g ref="char:EOLhyphen"/>ture <note place="margin">Ibid.</note> Words, that ſay, Men may not have [that] Holy Ghoſt, which was given to believe in Chriſt Crucified, without the Faith of Chriſt Crucified; for what was that Holy Ghoſt that the wicked <hi>Jews</hi> always reſiſted? And what was that Holy Ghoſt which Chriſt told his Diſciples, ſhould ſpeak in them, <note place="margin">Luke</note> when he ſent them out by two and two to Preach the Goſpel, even before they underſtood he was to riſe from the Dead, neither did they underſtand it for ſome time after he was riſen?</p>
+            <p>And what was that <hi>G. K.</hi> ſaith, the
+<pb n="58" facs="tcp:108181:30"/>
+               <hi>Heathen</hi> once had, and that <hi>Pharaoh</hi> had before his Heart was hardned? where he ſaith, It is our Faith, that the <hi>Hea<g ref="char:EOLhyphen"/>then</hi> once had the Spirit of God, and that <hi>Pharaoh,</hi> before his Heart was hardned, had the Spirit of Grace; for is not the Spirit of Grace the Holy Ghoſt, or Holy Spirit? And was not the Spirit of Grace that which was to be poured forth in the Goſpel-Days, by which they ſhould ſee him whom they had pierced, and mourn over him? Was not this the Holy Ghoſt which <hi>Pharaoh</hi> had, having (as is con<g ref="char:EOLhyphen"/>feſſed) the Spirit of Grace? Though they had it not in that peculiar Degree, as true Believers in Chriſt had, is not denyed; even as it is ſaid, That Chriſt ſhould give thoſe Light that did awake <note place="margin">Epheſ.</note> out of Sleep, and ariſe from the Dead; not but that he enlightens all men, tho' not all in like Degree. But alas, what does he drive at? or how many Holy Ghoſts, would he make us believe there are?</p>
+            <p>
+               <hi>Sixthly,</hi> Where are the expreſs Scrip<g ref="char:EOLhyphen"/>ture Words, that ſay, The Light is not ſufficient without ſomething elſe? See<g ref="char:EOLhyphen"/>ing <hi>G. K.</hi> ſaith, The Light is God and Chriſt, and the Scripture expreſly ſaith,
+<pb n="59" facs="tcp:108181:30"/>
+God is Almighty or Omnipotent.</p>
+            <p>
+               <hi>Seventhly,</hi> Now as to that part of that you call the main Matter of Controver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e.</p>
+            <p>Where are the expreſs Scripture Words and Terms, that ſay, No Man <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an attain to Eternal Life and Happineſs without the Knowledge of Chriſt's out<g ref="char:EOLhyphen"/>ward Sufferings, Death, Reſurrection, <hi>&amp;c?</hi> But the Scripture ſaith expreſly, <hi>Glory, Honour and Peace to every Man that worketh good, to the Jew first, and al<g ref="char:EOLhyphen"/>ſo to the Gentile:</hi> And which Words <hi>G. K.</hi> ſaith) do import, That ſome of thoſe <hi>Gentiles</hi> did work good, and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eived the Reward of Glory and Honour <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof: Therefore (ſaith he) it fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ows, they were juſtified.</p>
+            <p>Now I ſay, this being called by your ſelves, the main Matter of Controver<g ref="char:EOLhyphen"/>ſie, and that to hold the contrary, is great Hereſie, how is it that you in the firſt place do not ſo deal with <hi>G. K.</hi> for hold<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng this Hereſie, ſo as either to cauſe him to condemn what he hath writ ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſitively for it, or elſe, to declare your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves out of Unity and Fellowſhip with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im about it, and not only about that,
+<pb n="60" facs="tcp:108181:31"/>
+but about divers other Doctrinal Points written by him, as afore is ſhewn, which are the Doctrines you ſo quarrel with, and Unchriſtian us about: And really, I could never yet ſee how you can be in partial in the Caſe, to find ſuch fault with us about theſe things, ſo as to ſe<g ref="char:EOLhyphen"/>parate and divide your ſelves from us, and that one of your Chief Reaſons pre<g ref="char:EOLhyphen"/>tending for your ſo doing, was for that ſome had ſpoken unſound Words a<g ref="char:EOLhyphen"/>mong us, as <hi>W. S.</hi> and <hi>T. F.</hi> For which they were not brought to ſuch Condem<g ref="char:EOLhyphen"/>nation, as to Time and Manner, as pleaſed you: And yet to joyn with and extol <hi>G. K.</hi> (as you do) whilſt he lies under the guilt of the ſame Errors (as you call them) eſpecially about the main Matter of Controverſie he is di<g ref="char:EOLhyphen"/>rectly poſitive, as is aforeſhewed; for though much of it was formerly writ, yet he juſtifying ſtill all written in his former Books, how can you then deny and ſeparate from us about Words ſpo<g ref="char:EOLhyphen"/>ken, ſo as the ſaying of them might be forgotten, and yet juſtifie him in ſuch Words written, that cannot be eaſily blotted out? Let me deſire you ingeni<g ref="char:EOLhyphen"/>ouſly to conſider this matter without prejudice or affection to either Me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="61" facs="tcp:108181:31"/>
+or Parties, for Men or Parties ſake. For if the Doctrine of <hi>G. K.</hi> then held <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e falſe, how can you juſtifie him in it, and yet condemn us for holding the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame thing? For, do we hold, The Light is ſufficient of it ſelf?</p>
+            <p>So does <hi>G. K.</hi> too. It being God, the Word, and Holy Spirit.</p>
+            <p>Do we ſay, he is the only true Chriſt and Saviour, as manifeſt in us?</p>
+            <p>So does <hi>G. K.</hi> too.</p>
+            <p>Do we hold, the Light, Power and Spirit within to be Chriſt the Mediator and Saviour?</p>
+            <p>So does <hi>G. K.</hi> too.</p>
+            <p>It is our Faith, That Magiſtrates may Preach.</p>
+            <p>So it is <hi>G. K.</hi>'s too.</p>
+            <p>Do we deny the Profeſſors carnal Conceptions of the Reſurrection, and hold us to Scripture Words for that and all other Matters of Faith, judging it moſt ſafe ſo to do?</p>
+            <p>So does <hi>G. K.</hi> too.</p>
+            <p>Do we hold, that nothing ſhould be required among us for an Article of Faith, but what is expreſly delivered in Scripture in plain expreſs Scripture Words?</p>
+            <p>So does <hi>G. K.</hi> too.</p>
+            <p>
+               <pb n="62" facs="tcp:108181:32"/>
+Do we hold, That where the Scrip<g ref="char:EOLunhyphen"/>ture is not expreſs to the contrary, a Diſſenter ſhould have his Liberty to dif<g ref="char:EOLhyphen"/>fer in Judgment? And that to do other wiſe is to tranſgreſs that golden Rule de<g ref="char:EOLhyphen"/>livered by <hi>Paul,</hi> as aforeſaid?</p>
+            <p>So does <hi>G. K.</hi> too.</p>
+            <p>And now Laſtly, As to the main Mat<g ref="char:EOLhyphen"/>ter of Controverſie: Do we ſay, That the Knowledge of Chriſt's Death, Re<g ref="char:EOLhyphen"/>ſurrection, <hi>&amp;c.</hi> in the outward, is not indiſpenſibly neceſſary to all and every one to Salvation, ſo as none can be ſaved without it.</p>
+            <p>So doth <hi>G. K.</hi> too.</p>
+            <p>Now to conclude, I do ſay, The Premiſes being throughly and imparti<g ref="char:EOLhyphen"/>ally conſidered, methinks you may eaſily ſee that <hi>G. K</hi>'s ſeparating was not from any ſolid weighty Ground in Truth, nor that he did intend in it, to maintain the Doctrine of the moſt found, ancient and preſent Friends of Truth, called in ſcorn <hi>Quakers;</hi> neither as to Doctrinal Points did he intend to keep to the expreſs Words of Scripture, for if he had, what need had he to have differed with us a<g ref="char:EOLhyphen"/>bout them?</p>
+            <p>Since <hi>Firſt,</hi> we offered ſo often to ex<g ref="char:EOLhyphen"/>preſs them on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in Scripture Words. Then</p>
+            <p>
+               <pb facs="tcp:108181:32"/>
+               <hi>Secondly,</hi> Becauſe, he cannot be ſo ig<g ref="char:EOLhyphen"/>norant, but muſt needs know, having (as he confeſſeth) theſe eight Years been ſo intimate with thoſe of Chief Note a<g ref="char:EOLhyphen"/>mong us, not only in <hi>Europe,</hi> but for theſe divers Years in <hi>America,</hi> I ſay therefore, How is it but he muſt needs know, that according to expreſs VVords of Scripture, VVe really own and un<g ref="char:EOLhyphen"/>feignedly believe in one God, that made the VVorld and all things therein, and in one Lord Jeſus Chriſt, who is called the Word of God, in whom is Life, and which Life is the Light of Men, and that he is the true Light that enligh<g ref="char:EOLhyphen"/>tens every Man that comes into the VVorld, who commanded us to believe in the Light, that we might be Children of the Light<hi>:</hi> This is expreſs Scripture.</p>
+            <p>And that we believe, that as the Children were partakers of Fleſh and Blood, he himſelf alſo took part of the ſame; being Conceived by the Holy Ghoſt, Born of the <hi>Virgin Mary</hi> in <hi>Beth<g ref="char:EOLhyphen"/>lehem;</hi> and by wicked Hands was Cru<g ref="char:EOLhyphen"/>cified and Slain; and that he died for the Sins of the World, whoſe Body <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> of <hi>Arimathea</hi> begged; and that he was buried, and the third Day he roſe gain from the Dead, and ſhewed him<g ref="char:EOLhyphen"/>ſelf
+<pb facs="tcp:108181:33"/>
+to his Diſciples, being ſeen o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them forty Days, and whilſt they beheld, he was taken up into Heaven, and a Cloud received him out of their ſight; and that this Man Jeſus Chriſt is the Mediator between God and Man, and that he e<g ref="char:EOLhyphen"/>ver lives to make Interceſſion for us: And that by him it is, who is the Life and Light of Men, who ſaid to his Diſ<g ref="char:EOLhyphen"/>ciples, I will come again and receive you; I go away and come again unto you; I in them, and thou in me; he that is with you ſhall be in you, <hi>John</hi> 14. and <hi>Chap.</hi> 18. and promiſed to be with his own to the end of the World, <hi>Mat.</hi> 28. he, even he it is who died and was buried, roſe again and aſcended, and ſits on the right Hand of God; Him, Jeſus our only Saviour, and no other, it is that we believe God will judge the World by at the Day appointed; or great Day of Judgment. But how or after what Manner his Body was chan<g ref="char:EOLhyphen"/>ged after it was taken up out of their ſight, we think no need to undertake, as well as that it is impoſſible for us to determine; But <hi>G. K.</hi> ſaith, It is no more a Body of Fleſh, Blood and Bones.</p>
+            <p>And again according to expreſs Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="65" facs="tcp:108181:33"/>
+Words; We believe that there is no Salvation in any other, nor no Name given under Heaven, whereby we muſt be ſaved, but this Name <hi>Jeſus.</hi> But <hi>G. K.</hi> ſaith, It is not the outward Name that ſaves, but the inward Name Virtue and Power ſignified thereby.</p>
+            <p>And according to the expreſs Words of Scripture, We believe there ſhall be a Reſurrection of the Dead, both of the Juſt and Unjuſt, as is afore expreſſed, and that in ſuch a Body as God pleaſeth to give, this is Scripture. Now I ſay, how can <hi>G. K.</hi> be ignorant, but that this he muſt needs know we believe? Though this (I cannot find) will do with him, unleſs we ſay, The Light is not ſufficient without ſomething elſe, or unleſs we ſay, God will not give E<g ref="char:EOLhyphen"/>ternal Life and Salvation to honeſt and conſciencious Heathens; no more to In<g ref="char:EOLhyphen"/>fants neither, that dye in that State, un<g ref="char:EOLhyphen"/>leſs they have firſt the Knowledge of Chriſt's outward Sufferings, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall now conclude with a few Words more particularly to thoſe that are moſt Sincere amongſt you, for whoſe ſakes I was chiefly drawn forth thus to write, and lay before you theſe things. Let me entreat you to begin a
+<pb n="66" facs="tcp:108181:34"/>
+little to conſider what you have been doing, and how you have cauſed many to ſtumble at the way of Truth, and how you that could ſo eaſily and raſhly run into this Se<g ref="char:EOLhyphen"/>paration and Diviſion, dividing your ſelves from your Brethren, and then expoſing the weakneſs of ſome, and perverting the Words of others, with ſuch cruel and uncha<g ref="char:EOLhyphen"/>ritable Aggravations, that I do not remem<g ref="char:EOLhyphen"/>ber I ever heard the like. Now I ſay, You that could ſo eaſily thus divide from, and on this manner deal with your Brethren, without that true Regard had, as you ought, for the Fame of Truth, the way of it; or to the afflicted People in remote Parts, that live therein: Pray conſider this and lay it to Heart, and what hath been the Effect of it. And you that were ſo much contending about Doctrinal Points, not being content with the Expreſſions of Scripture concern<g ref="char:EOLhyphen"/>ing them, how are you now rent and ſhat<g ref="char:EOLhyphen"/>tered among your ſelves about them?</p>
+            <p>What ſhall I ſay more? But come, return again, and let us be content to receive for Doctrine, what the Holy Ghoſt moved the Holy Men of Old to lay down for us in the Holy Scripture, and that by a meaſure of the ſame Spirit, in which they were right, we may be enabled to follow the Lord in the narrow Path of Regeneration; why ſhould you thus turn aſide from the Flocks of the Companions? I hope you may ſee, by what is here written, <hi>G. K.</hi> had not
+<pb n="67" facs="tcp:108181:34"/>
+any matter of weight in Truth, nor Matter conſiſtent in it ſelf, to draw you thus aſide: Therefore do but return in the way of Truth, and then it may pleaſe the Lord we may yet meet together, and ſit down in deep Humility before him, every one being upon his Watch Tower, guarding ſtrongly in the Strength of the Lord, againſt our com<g ref="char:EOLhyphen"/>mon Enemies, the World, the Fleſh and the Devil; and ſo may yet be a People of one Judgment, one Heart, and one Mind, Wor<g ref="char:EOLhyphen"/>ſhipping and Serving the Lord our God with one Conſent.</p>
+            <p>Now my Friends, if what is here writ<g ref="char:EOLhyphen"/>ten may prevail upon any of you for your good, I ſhall be glad; if not, we muſt leave our Cauſe with God, who judgeth righte<g ref="char:EOLhyphen"/>ouſly.</p>
+            <p>Thus truly deſiring Truth, Peace and Concord may be reſtored, kept and remain in the Churches of Chriſt, I remain one that heartily Wiſhes for all your welfares, and Reſt your true Friend</p>
+            <closer>
+               <signed>Caleb Puſey.</signed>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 23d. 12th. <hi>Month,</hi> 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="quotations">
+            <pb n="68" facs="tcp:108181:35"/>
+            <q>
+               <bibl>
+                  <hi>Rom. 16. 17.</hi>
+               </bibl> NOW I beſeech you, Brethren, mark them which cauſe Diviſions among you, con<g ref="char:EOLhyphen"/>trary to the Doctrine which ye have learned, and avoid them.</q>
+            <q>
+               <bibl>
+                  <hi>Acts 20. 30.</hi>
+               </bibl> Alſo from your own ſelves ſhall Men ariſe, ſpeaking perverſe things to draw away Diſciples after them.</q>
+            <q>
+               <bibl>
+                  <hi>Coll. 2. 18.</hi>
+               </bibl> Intruding into thoſe things which he hath not ſeen.</q>
+            <q>
+               <bibl>
+                  <hi>1 John 3. 2.</hi>
+               </bibl> Beloved, now are we the Sons of God, and it doth not yet appear what we ſhall be.</q>
+            <q>
+               <bibl>
+                  <hi>John 8. 13.</hi>
+               </bibl> If ye continue in my Word, then are ye my Diſciples indeed, and ye ſhall know the Truth, and the Truth ſhall make you free.</q>
+            <q>
+               <bibl>
+                  <hi>John 3. 21.</hi>
+               </bibl> But he that doth Truth, cometh to the Light, that his deeds may be made manifeſt, that they are wrought in God.</q>
+            <q>
+               <bibl>
+                  <hi>Acts 20. 32.</hi>
+               </bibl> And now Brethren, I commend you to God, and to the Word of his Grace, which is able to build you up, and to give you an Inheritance among all them which are Sanctified.</q>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:108181:35"/>
+            <pb facs="tcp:108181:36" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:108181:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:108181:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:108181:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:108181:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:108181:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:108181:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:108181:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:108181:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:108181:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:108181:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:108181:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:108181:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:108181:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:108181:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:108181:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:108181:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:108181:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:108181:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:108181:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:108181:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:108181:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:108181:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:108181:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="25" facs="tcp:108181:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="26" facs="tcp:108181:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:108181:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="28" facs="tcp:108181:50"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="29" facs="tcp:108181:50"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="30" facs="tcp:108181:51"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="31" facs="tcp:108181:51"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="32" facs="tcp:108181:52"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:108181:52"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:108181:53"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="35" facs="tcp:108181:53"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:108181:54"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="37" facs="tcp:108181:54"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="38" facs="tcp:108181:55"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="39" facs="tcp:108181:55"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="40" facs="tcp:108181:56"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="41" facs="tcp:108181:56"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="42" facs="tcp:108181:57"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="43" facs="tcp:108181:57"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="44" facs="tcp:108181:58"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="45" facs="tcp:108181:58"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="46" facs="tcp:108181:59"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="47" facs="tcp:108181:59"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="48" facs="tcp:108181:60"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="49" facs="tcp:108181:60"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="50" facs="tcp:108181:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="51" facs="tcp:108181:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="52" facs="tcp:108181:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="53" facs="tcp:108181:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="54" facs="tcp:108181:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="55" facs="tcp:108181:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="56" facs="tcp:108181:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="57" facs="tcp:108181:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="58" facs="tcp:108181:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="59" facs="tcp:108181:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="60" facs="tcp:108181:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="61" facs="tcp:108181:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="62" facs="tcp:108181:67"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="63" facs="tcp:108181:67"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="64" facs="tcp:108181:68"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="65" facs="tcp:108181:68"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="66" facs="tcp:108181:69"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="67" facs="tcp:108181:69"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="68" facs="tcp:108181:70"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
